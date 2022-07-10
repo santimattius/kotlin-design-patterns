@@ -1,4 +1,7 @@
 ## Abstract Factory
 
-Abstract Factory es un patrón de diseño creacional que resuelve el problema de crear familias enteras de productos sin
-especificar sus clases concretas.
+Abstract Factory is a creational design pattern that solves the problem of creating entire families of products without
+Specify your concrete classes.
+
+Example:
+
