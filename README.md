@@ -45,3 +45,6 @@ Behavior Design Patterns are responsible for how one class communicates with oth
 - **Strategy**: It provides one of the families of algorithm to be selected at the runtime.
 - **Template Method**: It allows the subclasses to provide concrete behavior. It also defines the skeleton of an algorithm as an abstract class.
 - **Visitor**: It separates an algorithm from an object structure by moving the hierarchy of methods into one object.
+
+## References
+- [design-patterns by refactoring.guru](https://refactoring.guru/es/design-patterns)
