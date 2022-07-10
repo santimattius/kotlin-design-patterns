@@ -8,3 +8,5 @@ Example:
 <p align="center">
   <img width="600" src="https://github.com/santimattius/kotlin-design-patterns/blob/master/src/main/resources/creational/abstract-factory/abstract-factory.png?raw=true" alt="Screenshot home"/>
 </p>
+
+[Reference](https://refactoring.guru/es/design-patterns/abstract-factory)
