@@ -18,7 +18,7 @@ As the name suggests, it provides the object or classes creation mechanism that 
 - **Prototype**: It is used to create a new object from the existing object.
 - **Singleton?**: Singleton design pattern make sure that there is only one instance of an object is created.
 
-### Structural Design Patterns
+### Structural Design Patterns [coming soon]
 
 Structural Design Patterns mainly responsible for assemble object and classes into a larger structure making sure that these structure should be flexible and efficient. They are very essential for enhancing readability and maintainability of the code. It also ensure that functionalities are properly separated, encapsulated. It reduces the minimal interface between interdependent things.
 
@@ -30,7 +30,7 @@ Structural Design Patterns mainly responsible for assemble object and classes in
 - **Flyweight**: It decreases the cost of complex object model.
 - **Proxy**: It reduces the cost, reduce complexity, and provide the placeholder interface to an underlying object to control access.
 
-### Behavior Design Pattern
+### Behavior Design Pattern [coming soon]
 
 Behavior Design Patterns are responsible for how one class communicates with others.
 
