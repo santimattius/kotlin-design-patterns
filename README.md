@@ -48,3 +48,4 @@ Behavior Design Patterns are responsible for how one class communicates with oth
 
 ## References
 - [design-patterns by refactoring.guru](https://refactoring.guru/es/design-patterns)
+- [ Design Patterns: Elements of Reusable Object-Oriented Software Design Patterns: Elements of Reusable Object-Oriented Software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
