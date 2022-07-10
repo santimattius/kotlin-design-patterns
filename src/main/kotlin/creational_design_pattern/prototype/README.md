@@ -1,2 +1,2 @@
 # Prototype
-Prototype es un patrón de diseño creacional que nos permite copiar objetos existentes sin que el código dependa de sus clases.
+Prototype is a creational design pattern that allows us to copy existing objects without our code depending on their classes.
