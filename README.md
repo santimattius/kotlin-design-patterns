@@ -3,8 +3,8 @@
 Design patterns are common solutions to common problems in software design. Each pattern is like a blueprint that can be customized to solve a particular design problem in your code.
 
 Design Patterns are categorized mainly into three categories: 
-- Creational Design Pattern.
-- Structural Design Pattern.
+- [Creational Design Pattern](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/creational_design_pattern).
+- [Structural Design Pattern](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/structural_design_patterns).
 - Behavioral Design Pattern.
 
 
