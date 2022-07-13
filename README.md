@@ -18,17 +18,17 @@ As the name suggests, it provides the object or classes creation mechanism that 
 - **[Prototype](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/creational_design_pattern/prototype)**: It is used to create a new object from the existing object.
 - **[Singleton](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/creational_design_pattern/singleton)**: Singleton design pattern make sure that there is only one instance of an object is created.
 
-### Structural Design Patterns [coming soon]
+### Structural Design Patterns
 
 Structural Design Patterns mainly responsible for assemble object and classes into a larger structure making sure that these structure should be flexible and efficient. They are very essential for enhancing readability and maintainability of the code. It also ensure that functionalities are properly separated, encapsulated. It reduces the minimal interface between interdependent things.
 
-- **Adapter**: It provides us for two incompatible classes to work together by wrapping an interface around one of the existing classes.
-- **Composite**: It wraps a group of objects into a single object.
-- **Bridge**: It decouples an abstraction so that two classes can vary independently.
-- **Decorator**: It extends the object behavior dynamically at the run time.
-- **Facade**: It offers a simple interface to more complex underlying objects.
-- **Flyweight**: It decreases the cost of complex object model.
-- **Proxy**: It reduces the cost, reduce complexity, and provide the placeholder interface to an underlying object to control access.
+- **[Adapter](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/structural_design_patterns/adapter)**: It provides us for two incompatible classes to work together by wrapping an interface around one of the existing classes.
+- **[Composite](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/structural_design_patterns/composite)**: It wraps a group of objects into a single object.
+- **[Bridge](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/structural_design_patterns/bridge)**: It decouples an abstraction so that two classes can vary independently.
+- **[Decorator](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/structural_design_patterns/decorator)**: It extends the object behavior dynamically at the run time.
+- **[Facade](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/structural_design_patterns/facade)**: It offers a simple interface to more complex underlying objects.
+- **[Flyweight](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/structural_design_patterns/flyweight)**: It decreases the cost of complex object model.
+- **[Proxy](https://github.com/santimattius/kotlin-design-patterns/tree/master/src/main/kotlin/structural_design_patterns/proxy)**: It reduces the cost, reduce complexity, and provide the placeholder interface to an underlying object to control access.
 
 ### Behavior Design Pattern [coming soon]
 
