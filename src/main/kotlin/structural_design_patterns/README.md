@@ -5,6 +5,10 @@ these structure should be flexible and efficient. They are very essential for en
 of the code. It also ensure that functionalities are properly separated, encapsulated. It reduces the minimal interface
 between interdependent things.
 
+<p align="center">
+  <img width="600" src="https://github.com/santimattius/kotlin-design-patterns/blob/master/src/main/resources/structural/structural.png?raw=true" alt="Screenshot home"/>
+</p>
+
 - **Adapter**: It provides us for two incompatible classes to work together by wrapping an interface around one of the
   existing classes.
 - **Composite**: It wraps a group of objects into a single object.
