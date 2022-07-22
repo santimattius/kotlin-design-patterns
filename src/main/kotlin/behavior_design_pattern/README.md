@@ -2,6 +2,10 @@
 
 Behavior Design Patterns are responsible for how one class communicates with others.
 
+<p align="center">
+  <img width="600" src="https://github.com/santimattius/kotlin-design-patterns/blob/master/src/main/resources/behavior/behavior.png?raw=true" alt="Screenshot home"/>
+</p>
+
 - **Chain of Responsibility**: It representatives the command to a chain of processing object.
 - **Command**: It generates the objects which encapsulate actions of parameters.
 - **Interpreter**: It implements a specialized language.
